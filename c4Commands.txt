@@ -1,0 +1,14 @@
+signUp
+George
+c78Ds3b7
+user
+post
+brothers
+Hey brothers!
+A new movie is on the cinema!.
+done
+listFriendRequests
+accTypeFriend
+Gabriel
+brothers
+exit

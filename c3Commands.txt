@@ -1,0 +1,15 @@
+signUp
+Gabriel
+Ggs6Gg5yg73
+user
+post
+friends
+Post for my friends!
+done
+reqTypeFriend
+George
+family
+listFriendRequests
+accFriend
+Alex
+exit

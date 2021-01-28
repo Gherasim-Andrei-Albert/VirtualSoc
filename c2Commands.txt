@@ -1,0 +1,22 @@
+signUp
+Bogdan
+f7hGyg6f
+user
+post
+friends
+This is my first post!
+I want this post to be seen only by my friends.
+done
+listFriendRequests
+accFriend
+Alex
+listChatGroups
+seeChat
+group
+1
+sendMsg
+group
+1
+Yey!
+done
+exit

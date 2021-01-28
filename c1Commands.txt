@@ -1,0 +1,20 @@
+signUp
+Alex
+8snH3rf
+user
+reqFriend
+Bogdan
+reqFriend
+Gabriel
+mkChatGr
+work
+2
+Bogdan
+George
+listChatGroups
+sendMsg
+group
+1
+We have a new project to do!
+done
+exit

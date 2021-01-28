@@ -1,0 +1,1 @@
+g++ server/server.cpp -pthread -I/usr/include/mysql -lmysqlclient --std=c++11 -o s
